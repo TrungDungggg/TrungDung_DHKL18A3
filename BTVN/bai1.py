@@ -1,9 +1,9 @@
 class HCN:
-    def __init__(self, canhA:str=0, canhB:int=0):
+    def __init__(self, canhA:int=0, canhB:int=0):
         self.canhA = canhA
         self.canhB = canhB
     def nhap(self):
-        self.canhA = str(input("Nhập cạnh A: "))
+        self.canhA = int(input("Nhập cạnh A: "))
         self.canhB = int(input("Nhập cạnh B: "))
     def chu_vi(self):
         return 2*(self.canhA+self.canhB)
