@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Company>
+    <Employee>
+        <FirtsName>Trung</FirtsName>
+        <Lastname>Dung</Lastname>
+        <ContactNo>0393312350</ContactNo>
+        <Email>TrungDungx06@gmail.com</Email>
+        <Address>
+            <City>Hà Nội</City>
+            <District>Hai Ba Trung</District>
+            <Ward>Vĩnh Tuy</Ward>
+            <Street>Minh Khai</Street>
+            <HouseNumber>456</HouseNumber>
+        </Address>
+    </Employee>
+</Company>

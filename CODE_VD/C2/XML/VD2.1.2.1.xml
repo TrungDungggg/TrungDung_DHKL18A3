@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!--This is a comment node -->
+ <?xml-stylesheet type="text/xsl" href="style.xsl"?>
+ <!DOCTYPE library SYSTEM"library.dtd">
+ <library>
+ <book category="Lậptrình">
+ <titlelang="vn">LậptrìnhR</title>
+ <author>NguyễnTuấn</author>
+ <year>2020</year>
+ <pricecurrency="VND">200000</price>
+ </book>
+ <book category="web">
+ <titlelang="en">Learning XML</title>
+ <author>Erik T.Ray</author>
+ <year>2003</year>
+ <pricecurrency="USD">39.95</price>
+ </book>
+</library>
