@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DanhSachSV>
+    <MaSV>010</MaSV>
+    <TenSV>Nguyen Van B</TenSV>
+    <NamSinh>
+        <Ngay>20</Ngay>
+        <Thang>07</Thang>
+        <Nam>2006</Nam>
+    </NamSinh>
+    <Lop>18A3DHKL</Lop>
+    <GioiTinh>Nam</GioiTinh>
+</DanhSachSV>

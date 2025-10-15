@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CongTy>
+    <TenGiamDoc>Nguyen Van A</TenGiamDoc>
+    <DiaChi>
+        <SoNha>123 Linh Nam</SoNha>
+        <Quan>Hoang Mai</Quan>
+    </DiaChi>
+    <SDT>03393312345</SDT>
+    <MaSoThue>01234</MaSoThue>
+</CongTy>

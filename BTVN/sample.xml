@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<company>
+    <name>GeeksForGeeks</name>
+    <staff id ="1">
+        <name>Amar Pandey</name>
+        <salary>8.5LPA</salary>
+    </staff>
+    <staff id ="3">
+        <name>Anthony WWalter</name>
+        <salary>3.2LPA</salary>
+    </staff>
+</company>
