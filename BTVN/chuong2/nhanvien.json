@@ -1,0 +1,13 @@
+{
+    "company": {
+        "name":"Công ty TNHH Đất Việt",
+        "address":"123-Giải Phóng-Hà Nội",
+        "employees":[
+            {"name":"Nguyễn Văn A","dvi":"A1"},
+            {"name":"Nguyễn Văn B","dvi":"A2"},
+            {"name":"Nguyễn Văn C","dvi":"A3"},
+            {"name":"Nguyễn Văn D","dvi":"A4"},
+            {"name":"Nguyễn Văn E","dvi":"A4"}   
+        ]
+    }
+}
