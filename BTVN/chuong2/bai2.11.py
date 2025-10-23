@@ -29,7 +29,7 @@ def main():
         if tiep_tuc == '1':
             now = datetime.now()
             ten_file = now.strftime("%Y-%m-%d-%H-%M-%S.json")
-            duong_dan = r"D:\18A3KHDL\BTVN\chuong2"
+            duong_dan = r"D:\18A3DHKL\BTVN\chuong2"
             duong_dan_f = f"{duong_dan}\\{ten_file}"
             with open(duong_dan_f, "w", encoding="utf-8") as f:
                         json.dump(ds_giao_dich, f, ensure_ascii=False, indent=4)
